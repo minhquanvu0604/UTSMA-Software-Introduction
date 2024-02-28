@@ -34,15 +34,15 @@ In progress migrating to ROS 2!
 
 ### Path Planning
 
+To be updated
+
 ### Computer Vision
 [Google Drive](https://drive.google.com/drive/folders/1eHo876xr0HqshwWCaD4Fv1u5nRigDS7F?usp=drive_link)
 
 ### Simulations
 
+To be updated
+
 ### Vehicle Control Systems
 
-### Data Collection and Management
-
-### Safety and Regulations
-- Understanding safety protocols and compliance with regulations.
-- Best practices for ensuring the safety of autonomous operations.
+To be updated
