@@ -7,8 +7,12 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 ## Important Resources
 
 ### Getting Involved
+- How to contribute to the project.
+- Communication channels and meeting schedules.
 
 ### Development Tools and Practices
+- Guide to the tools we use for development, including IDEs, version control, and collaboration platforms.
+- Coding standards and review processes to maintain high-quality code.
 
 ### Open-source Software
 FaSTTUBe Formula Student Driverless Path Planning Algorithm [link](https://github.com/papalotis/ft-fsd-path-planning)
@@ -42,6 +46,7 @@ In progress migrating to ROS 2!
 ### Vehicle Control Systems
 
 ### Data Collection and Management
+- Strategies for collecting, storing, and managing data from vehicle sensors and test drives.
 
 ### Safety and Regulations
 - Understanding safety protocols and compliance with regulations.
