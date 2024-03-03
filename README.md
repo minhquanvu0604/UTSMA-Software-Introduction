@@ -6,35 +6,20 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 
 ## Important Resources
 
-### Getting Involved
-
-### Development Tools and Practices
-
-### Open-source Software
-FaSTTUBe Formula Student Driverless Path Planning Algorithm [link](https://github.com/papalotis/ft-fsd-path-planning)
-
-A small script that converts a hand drawn track layout to a track layout that can be used in in Formula Student Driverless Simulators [link](https://github.com/papalotis/drawing-to-fsd-layout)
-
-Comprehensive Resource from QUT Motorsport [link](https://github.com/QUT-Motorsport)
-
-QUT Forked eufs-sim [link](https://github.com/QUT-Motorsport/eufs_sim)
-
-eufs-sim [link](https://gitlab.com/eufs/eufs_sim)
-
 ## Category-specific Resources
 We're currently undergoing a significant restructuring within various sections of the UTSMA software team. Our team leads are at hard work compiling documents to summarize what has been accomplished so far. To make it efficient, we hope to align our priorities of preparing the materials with your areas of interest. Share with us your preferred area of focus. Chances are you will be the pioneer in that category!
 
 ### Autonomous System Overview
 [Google Drive](https://drive.google.com/drive/folders/1ksgJ-Ff40Uwp_a53CNsU_4nPnlklQnhM?usp=drive_link)
 
+### Path Planning
+[Introduction and Guide to Path Planning](https://docs.google.com/document/d/1UwfvTsaPmcLQRIa7ISYW_C58mfb8HMV3/edit?usp=drive_link&ouid=106341816978141651777&rtpof=true&sd=true)
+
 ### Robotic Operating System (ROS)
 In progress migrating to ROS 2! 
 
 [Google Drive](https://drive.google.com/drive/folders/1Xom48hRUlfQoVRsp0umaFlYNcggQWsob?usp=drive_link)
 
-### Path Planning
-
-To be updated
 
 ### Computer Vision
 [Google Drive](https://drive.google.com/drive/folders/1eHo876xr0HqshwWCaD4Fv1u5nRigDS7F?usp=drive_link)
@@ -46,3 +31,13 @@ To be updated
 ### Vehicle Control Systems
 
 To be updated
+
+
+### Getting Involved
+
+### Development Tools and Practices
+
+### [Open-source Software](wiki\open_source_software.md)
+Choosen codebase that serves as good references. 
+
+
