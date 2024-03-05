@@ -21,20 +21,26 @@ You will see the a window of Gazebo (our Simulation software) and another window
 
 
 ## How to see the code for Simulation
+You can stop the two containers that run the Simulation and Path Planning and view the code:
 
-Install VSCode in your host machine (outside the container, on the operating system of your computer). For Linux:
+```
+docker stop utsma_demo_path_planning
+docker stop utsma_demo_sim
+```
+
+Install VSCode (if you haven't) in your host machine (outside the container, on the operating system of your computer). For Linux:
  
 ```
 sudo snap install --classic code
 ```
 
-# Install an extension to view and edit code inside containers  
+Install an extension to view and edit code inside containers  
 ```
 code --install-extension ms-vscode-remote.remote-containers
 ```
-Follow [this](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) to attach to the running container `utsma_demo_sim`
+Follow [this](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) to attach to the running container `utsma_demo_code_viewer`
 
-Inside VSCode, File/Open Folder..., go to this path `/utsma_ws/src/`
+Then navigate to the code directory. Inside VSCode, File/Open Folder..., go to this path `/utsma_ws/src/`
 
 
 ## Quick navigation
