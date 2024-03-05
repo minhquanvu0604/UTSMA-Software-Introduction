@@ -5,7 +5,7 @@ Congratulations on joining us! This is likely to be (and recommended to be) the 
 Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to reach out with your questions, ideas, or if you just want to chat about programming languages. 
 
 ## Important Resources
-[Docker](https://drive.google.com/drive/folders/1yzJbm0I91lRBJCyyGA6qIhRGd1CaO-Fl?usp=drive_link) for ROS1 system Simulation and Path Planning Demo.
+Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo)
 
 
 ## Category-specific Resources
@@ -39,11 +39,9 @@ To be updated
 
 ### Development Tools and Practices
 
-### Docker
-[Playlist](https://www.youtube.com/watch?v=XcJzOYe3E6M&list=PLunhqkrRNRhaqt0UfFxxC_oj7jscss2qe&pp=iAQB) for Docker application in robotics
+### [Docker](wiki/docker.md)
 
-[Quick guide](https://youtu.be/SAMPOK_lazw?feature=shared&t=39) to install Docker
-
+Docker is an increasingly popular tool in the software domain and has proven its usefulness in robotics. By simplifying dependency management and promoting modularity, Docker allows our team to decide and follow on our software dependency standards efficiently. Moreover, Docker's seamless integration and deployment capabilities, with its excellent compatibility with version control systems like Git, significantly streamline the development process.
 
 
 ## [Open-source Software](wiki\open_source_software.md)
