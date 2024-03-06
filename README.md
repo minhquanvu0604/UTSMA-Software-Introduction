@@ -5,7 +5,7 @@ Congratulations on joining us! This is likely to be (and recommended to be) the 
 Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to reach out with your questions, ideas, or if you just want to chat about programming languages. 
 
 ## Important Resources
-Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo.md)
+* Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo.md)
 
 
 ## Category-specific Resources
