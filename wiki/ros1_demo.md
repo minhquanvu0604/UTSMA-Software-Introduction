@@ -2,9 +2,15 @@
 
 [Link](https://drive.google.com/drive/folders/1yzJbm0I91lRBJCyyGA6qIhRGd1CaO-Fl?usp=drive_link) to the image on Google Drive
 
-## Install Docker 
-Visit the guide in the [Docker section](wiki/docker.md)
+For more info about Docker (optional), visit the guide in the [Docker section](wiki/docker.md)
 
+
+## Install Docker 
+
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh ./get-docker.sh 
+```
 
 ## Load and run the image 
 Run the bash file provided to run
