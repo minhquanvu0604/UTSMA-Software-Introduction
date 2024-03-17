@@ -4,9 +4,14 @@ Congratulations on joining us! This is likely to be (and recommended to be) the 
 
 Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to reach out with your questions, ideas, or if you just want to chat about programming languages. 
 
+## Upcoming Activities - Updated March 17th, 2024
+* Onboarding Day Agenda - [Doc](https://docs.google.com/document/d/1aJJLS3kh583h26mIUbPcbX9Z9O1gO9NFjqotf0uAgFU/edit?usp=sharing)
+* Design Review Schedule - [Google Drive](https://drive.google.com/drive/folders/15ylyldXmXBeACkkLHzWmblHgWeRbWLl9?usp=sharing)
+
 ## Important Resources
 * Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo.md)
-
+* Let someone know that your borrowing equipment and update the [following](https://drive.google.com/drive/folders/1s4RaXr7q4EpDUFmCq081W_j0JnPiPcAK?usp=sharing)
+* Project Lead Documentation - [Google Drive](https://drive.google.com/drive/folders/1TdFySK1vk3Zrb0MlMXAERZ5uGw8OwUny?usp=sharing)
 
 ## Category-specific Resources
 We're currently undergoing a significant restructuring within various sections of the UTSMA software team. Our team leads are at hard work compiling documents to summarize what has been accomplished so far. To make it efficient, we hope to align our priorities of preparing the materials with your areas of interest. Share with us your preferred area of focus. Chances are you will be the pioneer in that category!
