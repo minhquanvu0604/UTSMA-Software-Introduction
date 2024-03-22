@@ -9,8 +9,13 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 * Design Review Schedule - [Google Drive](https://drive.google.com/drive/folders/15ylyldXmXBeACkkLHzWmblHgWeRbWLl9?usp=sharing)
 
 ## Important Resources
+* USTMA Software System Overview (Presentation Slides) - [Google Drive](https://docs.google.com/presentation/d/1zne05yfEJS1NjFWseucH3GLTtiT8GwhdV-NkSwT-K6s/edit?usp=sharing)
+* FSAE-A Documents:
+
+  * https://www.saea.com.au/formula-sae-a
+  * https://www.saea.com.au/documents
 * Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo.md)
-* Let someone know that your borrowing equipment and update the [following](https://drive.google.com/drive/folders/1s4RaXr7q4EpDUFmCq081W_j0JnPiPcAK?usp=sharing)
+* Let someone know that you're borrowing any equipment and update the [following](https://drive.google.com/drive/folders/1s4RaXr7q4EpDUFmCq081W_j0JnPiPcAK?usp=sharing)
 * Project Lead Documentation - [Google Drive](https://drive.google.com/drive/folders/1TdFySK1vk3Zrb0MlMXAERZ5uGw8OwUny?usp=sharing)
 
 ## Category-specific Resources
