@@ -9,6 +9,9 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 * Design Review Schedule - [Google Drive](https://drive.google.com/drive/folders/15ylyldXmXBeACkkLHzWmblHgWeRbWLl9?usp=sharing)
 
 ## Important Resources
+
+<details><summary><b>Expand</b></summary>
+
 * USTMA Software System Overview (Presentation Slides) - [Google Drive](https://docs.google.com/presentation/d/1zne05yfEJS1NjFWseucH3GLTtiT8GwhdV-NkSwT-K6s/edit?usp=sharing)
 * FSAE-A Documents:
 
@@ -17,6 +20,7 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 * Docker for ROS1 System - [Simulation and Path Planning Demo](wiki/ros1_demo.md)
 * Let someone know that you're borrowing any equipment and update the [following](https://drive.google.com/drive/folders/1s4RaXr7q4EpDUFmCq081W_j0JnPiPcAK?usp=sharing)
 * Project Lead Documentation - [Google Drive](https://drive.google.com/drive/folders/1TdFySK1vk3Zrb0MlMXAERZ5uGw8OwUny?usp=sharing)
+</details>
 
 ## Category-specific Resources
 We're currently undergoing a significant restructuring within various sections of the UTSMA software team. Our team leads are at hard work compiling documents to summarize what has been accomplished so far. To make it efficient, we hope to align our priorities of preparing the materials with your areas of interest. Share with us your preferred area of focus. Chances are you will be the pioneer in that category!
