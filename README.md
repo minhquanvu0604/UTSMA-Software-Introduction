@@ -10,7 +10,11 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 
 ## Important Resources
 
-<details><summary><b>Expand</b></summary>
+<details><summary><b>Design Challenge 2024</b></summary>
+
+</details>
+
+<details><summary><b>More</b></summary>
 
 * USTMA Software System Overview (Presentation Slides) - [Google Drive](https://docs.google.com/presentation/d/1zne05yfEJS1NjFWseucH3GLTtiT8GwhdV-NkSwT-K6s/edit?usp=sharing)
 * FSAE-A Documents:
