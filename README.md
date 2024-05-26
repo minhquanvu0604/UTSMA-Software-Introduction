@@ -10,9 +10,7 @@ Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to rea
 
 ## Important Resources
 
-<details><summary><b>Design Challenge 2024</b></summary>
-
-</details>
+- [Design Challenge 2024](wiki/design_challenge_2024/design_challenge_2024_main.md)
 
 <details><summary><b>More</b></summary>
 
