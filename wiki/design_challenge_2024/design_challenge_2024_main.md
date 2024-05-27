@@ -6,3 +6,4 @@
 ## Personal/Section Proposal
 - [Minh Quan Vu](Design_Challenge_Proposal_Minh_Quan_Vu.md) 
 - [Joshua Muzik](Design-Challenge-Project-Proposal-JM-RL.pdf)
+- [James Chivers](Design_Challenge_Proposal_James.md)

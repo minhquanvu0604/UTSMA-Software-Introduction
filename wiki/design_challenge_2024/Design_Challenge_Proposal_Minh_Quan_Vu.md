@@ -30,6 +30,8 @@ Other motivations can be found here...
 
 ## Timeline 
 I will work on the above tasks and provide support to Software and Embedded. Minimum time commitment will be 20 hours per week.
+In the last week, I will have to do some marking for Programming for Mechatronic System, and will be away in a undefined timeframe, 
+since it depends on the time slots students book me for viva.
 
 ### Last Week - Testing JAM (10/6 - 16/6)
 - PfMS group discussion.
