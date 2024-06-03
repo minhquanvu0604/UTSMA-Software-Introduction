@@ -50,6 +50,9 @@ We're currently undergoing a significant restructuring within various sections o
 
 * To be updated
 
+### Reinforcement-Learning Control
+
+* [Shared resource](wiki/reinforcement_section.md)
 
 ### Getting Involved
 
