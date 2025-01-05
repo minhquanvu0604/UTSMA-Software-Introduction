@@ -1,3 +1,5 @@
+# This repo is Deprecated, migrated content to utsma_doc
+
 # Welcome to UTS Motorsports Autonomous Software Team!
 
 Congratulations on joining us! This is likely to be (and recommended to be) the first Git repository you have seen from our team. It contains essential documentation and introductions that you might need to hit the ground running. Like any other GitHub repo of ours, you are welcome to contribute and be a part of it. Once again, warm welcome to the software team of UTS Motorsports Autonomous (UTSMA)!
