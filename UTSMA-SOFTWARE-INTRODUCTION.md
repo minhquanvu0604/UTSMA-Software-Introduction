@@ -3,7 +3,7 @@
 Congratulations on joining us! This is likely to be (and recommended to be) the first Git repository you have seen from our team. It contains essential documentation and introductions that you might need to hit the ground running. Like any other GitHub repo of ours, you are welcome to contribute and be a part of it. Once again, warm welcome to the software team of UTS Motorsports Autonomous (UTSMA)!
 
 <p align="center">
-  <img width="70%" alt="gif" src="image/sxsw_2024.JPG">
+  <img width="70%" alt="gif" src="media/sxsw_2024.JPG">
 </p>
 
 Your journey with UTSMA starts here. Dive in, explore, and don't hesitate to reach out with your questions, ideas, or if you just want to chat about programming languages. 
@@ -44,7 +44,7 @@ The track boundary needs to be explicitly derived and interpreted from the cones
 
 Our team current planning algorithm is a tree search based on Delaunay Triangulation:
 <p align="center">
-  <img width="30%" alt="gif" src="image\GIF.gif">
+  <img width="30%" alt="gif" src="media/GIF.gif">
 </p>
 
 ### Robotic Operating System (ROS)
@@ -61,7 +61,7 @@ A typical setup for cone localisation is a camera, Light Detection and Ranging (
 
 ### Simulations
 <p align="center">
-  <img width="50%" alt="sim_demo" src="image\sim_path_planning_demo.png">
+  <img width="50%" alt="sim_demo" src="media/sim_path_planning_demo.png">
 </p>
 
 The team takes advantage of open-source robotics simulation packages. Additionally, a good foundation in simulation and software development practice has allowed extension and modification to such software packages. The Control System section is working on the integration a revised, more comprehensive dynamic model to the existing simulation. Other improvements, such as perception noise and custom steering kinematics, have also been scoped out. 
